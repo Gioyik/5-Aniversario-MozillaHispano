@@ -1,0 +1,19 @@
+{
+  "recipient": "sha256$90bcd1175a0a7a04248c222481839d4b751bc10c146c919b903c91789ecba8da",
+  "salt": "#ioe12",
+  "evidence": "http://www.mozilla-hispano.org/mozilla-hispano-cumple-5-anos",
+  "issued_on": "2012-11-11",
+  "badge": {
+    "version": "5.0",
+    "name": "5 Aniversario de Mozilla Hispano",
+    "image": "http://gioyik.github.com/5-Aniversario-MozillaHispano/badge.png",
+    "description": "Badge para celebrar los 5 años de la comunidad Mozilla Hispano",
+    "criteria": "http://www.mozilla-hispano.org/mozilla-hispano-cumple-5-anos",
+    "issuer": {
+      "origin": "http://mozilla-hispano.org",
+      "name": "Mozilla Hispano",
+      "org": "Mozilla",
+      "contact": "participa@mozilla-hispano.org"
+   }
+  }
+}
